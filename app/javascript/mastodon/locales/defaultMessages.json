@@ -57,32 +57,32 @@
         "id": "account.unfollow"
       },
       {
-        "defaultMessage": "Awaiting approval. Click to cancel follow request",
-        "id": "account.requested"
+        "defaultMessage": "Withdraw follow request",
+        "id": "account.cancel_follow_request"
       },
       {
-        "defaultMessage": "Unblock @{name}",
-        "id": "account.unblock"
+        "defaultMessage": "Unblock",
+        "id": "account.unblock_short"
       },
       {
-        "defaultMessage": "Unmute @{name}",
-        "id": "account.unmute"
+        "defaultMessage": "Unmute",
+        "id": "account.unmute_short"
       },
       {
-        "defaultMessage": "Mute notifications from @{name}",
-        "id": "account.mute_notifications"
+        "defaultMessage": "Mute notifications",
+        "id": "account.mute_notifications_short"
       },
       {
-        "defaultMessage": "Unmute notifications from @{name}",
-        "id": "account.unmute_notifications"
+        "defaultMessage": "Unmute notifications",
+        "id": "account.unmute_notifications_short"
       },
       {
-        "defaultMessage": "Mute @{name}",
-        "id": "account.mute"
+        "defaultMessage": "Mute",
+        "id": "account.mute_short"
       },
       {
-        "defaultMessage": "Block @{name}",
-        "id": "account.block"
+        "defaultMessage": "Block",
+        "id": "account.block_short"
       }
     ],
     "path": "app/javascript/mastodon/components/account.json"
